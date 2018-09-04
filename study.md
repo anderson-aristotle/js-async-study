@@ -13,16 +13,19 @@ Synchronous Code. For the most part, you can think of the differences as the
 following. However, the readings will go into much more detail on the
 differences and patterns of each.
 
-Synchronous Code - operations the occur sequentially: ask db for data; wait; db gives data; do something with data.
+Synchronous Code - operations the occur sequentially: ask db for data; wait; db
+gives data; do something with data.
 
-Asynchronous - operations that may start in a certain sequence and may end in any permutation of that sequence while unrelated stuff happens in between.
+Asynchronous - operations that may start in a certain sequence and may end in
+any permutation of that sequence while unrelated stuff happens in between.
 
 ## Required Readings
 
--   [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
--   [Understanding Asynchronous JavaScript](https://www.youtube.com/watch?v=vMfg0xGjcOI)
--   [The Restaurant](https://www.codeschool.com/blog/2014/10/30/understanding-node-js/)
--   [Javes!](https://www.discovermeteor.com/blog/understanding-sync-async-javascript-node/) (until the section on fibers)
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Understanding Asynchronous JavaScript](https://www.youtube.com/watch?v=vMfg0xGjcOI)
+- [The Restaurant](https://www.codeschool.com/blog/2014/10/30/understanding-node-js/)
+- [Javes!](https://www.discovermeteor.com/blog/understanding-sync-async-javascript-node/)
+  (until the section on fibers)
 
 ## The Event Loop
 
