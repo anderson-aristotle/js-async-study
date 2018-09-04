@@ -23,8 +23,7 @@ any permutation of that sequence while unrelated stuff happens in between.
 
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Understanding Asynchronous JavaScript](https://www.youtube.com/watch?v=vMfg0xGjcOI)
-- [Javes!](https://www.discovermeteor.com/blog/understanding-sync-async-javascript-node/)
-  (until the section on fibers)
+- [Introduction to Asynchronous JavaScript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript)
 
 ## The Event Loop
 
