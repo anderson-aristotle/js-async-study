@@ -30,7 +30,7 @@ any permutation of that sequence while unrelated stuff happens in between.
 In your own words, describe the event loop and how it works.
 
 ```md
-<!-- your answer here -->
+An event loop is when your program is recursive.
 ```
 
 ## Synchronicity and Asynchronicity
@@ -38,7 +38,8 @@ In your own words, describe the event loop and how it works.
 In your own words, describe the difference between sync and async.
 
 ```md
-<!-- your answer here -->
+async is when when lines of code are called prior to other lines of codes, in a seemingly out
+of order manner. Synchronous code means code has to be run a specific order.
 ```
 
 ## Async Advantages and Disadvantages
@@ -46,5 +47,5 @@ In your own words, describe the difference between sync and async.
 What are some advantages and disadvantages of async?
 
 ```md
-<!-- your answer here -->
+async code allows the page to be more dynamic.
 ```
